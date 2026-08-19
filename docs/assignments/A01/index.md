@@ -5,8 +5,11 @@ The objective of Assignment 1 is to build a Professional Portfolio through analy
 
 ## Analyze
   Part A: Portfolio Analysis
+  
     1. Navigability
+    
       Portfolio 1:
+      
       Portfolio 2:
 
 ## Decide
