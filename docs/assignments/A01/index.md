@@ -24,3 +24,4 @@ Portfolio 2:
 
 ## Communicate
 
+Accessible on my about me page.
