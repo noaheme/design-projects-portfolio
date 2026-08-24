@@ -9,29 +9,31 @@ The objective of Assignment 1 is to build a Professional Portfolio through analy
 Portfolio 1: https://thanhvtran.com/
 Portfolio 2: https://nhoong.github.io/index.html
   
-  1. Navigability
+  A. Navigability
     
 Portfolio 1: The engineering portfolio of Thanh Tran is a very professionally laid out website. The home page has all of the tools needed to access different points and there is nothing that one cannot access in under a minute.
       
 Portfolio 2: The portfolio of Nathan Hoong is created through github leading to a different style than Portfolio 1. Nathan's portfolio is laid out well with many things accessible in under a minute however, unlike Portfolio 1, Nathan uses many videos and gifs causing the home page to be a bit overwhelming.
 
-  2. Reproductivity
+  B. Reproductivity
 
 Portfolio 1: The portfolio of Thanh Tran would be almost impossible to replicate. It is a website that shows off all of his work yet has no trace of what was used to create the website itself. It is meant to show the best of him along with his history and not meant to be used as a template for others.
 
 Portfolio 2: Nathans portfolio on the other hand is made through github and is public. This means that with a little bit of digging you can find the entire portfolio making it easy to replicate. Nathan does not mention it in his website itself however going onto github and searching for his profile will allow you to view it.
 
-  3. Evidence of Reasoning
+  C. Evidence of Reasoning
 
 Portfolio 1: Thanh Tran's portfolio is quite in-depth and provides reasoning for certain decisions. For projects that Tran can disclose information on he walks through design processes and provides images to back up certain decisions and help the reader follow his train of thought. However, some of his projects he is not able to comment on leaving the reader with just the decision or just the vague description of his role.
 
 Portfolio 2: Nathan Hoong's portfolio is a perfect example of how to provide evidence for certain decisions. Scrolling down on the homepage shows many different 3d models along with the design processes and guidelines that made him make certain decisions and provides 3d models of different parts of the projects that have significance or caused trouble.
 
-  4. Professional Tone
+  D. Professional Tone
 
 Portfolio 1: Thanh Tran's portfolio meets a standard that I would hand to an employer. It keeps a light hearted yet professional tone throughout. The introduction pokes fun at someone stumbling across the website providing a light hearted feel yet all of the projects and the resume are handled with such professionalism that it would be perfect for an employer.
 
 Portfolio 2: Nathan Hoong's portfolio take a strict professional approach. From the bio to the project descriptions it is easy to tell that it was created for employers to see. Therefore, I think it is good to send to an employer however I tend to like having slight humor where acceptable as it shows the real version of me.
+
+  Part B: Product Analysis
 
 ## Decide
 
