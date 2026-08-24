@@ -20,6 +20,12 @@ Portfolio 2: The portfolio of Nathan Hoong is created through github leading to 
 Portfolio 1: The portfolio of Thanh Tran would be almost impossible to replicate. It is a website that shows off all of his work yet has no trace of what was used to create the website itself. It is meant to show the best of him along with his history and not meant to be used as a template for others.
 
 Portfolio 2: Nathans portfolio on the other hand is made through github and is public. This means that with a little bit of digging you can find the entire portfolio making it easy to replicate. Nathan does not mention it in his website itself however going onto github and searching for his profile will allow you to view it.
+
+  3. Evidence of Reasoning
+
+Portfolio 1: Thanh Tran's portfolio is quite in-depth and provides reasoning for certain decisions. For projects that Tran can disclose information on he walks through design processes and provides images to back up certain decisions and help the reader follow his train of thought. However, some of his projects he is not able to comment on leaving the reader with just the decision or just the vague description of his role.
+
+Portfolio 2: Nathan Hoong's portfolio is a perfect example of how to provide evidence for certain decisions. Scrolling down on the homepage shows many different 3d models along with the design processes and guidelines that made him make certain decisions and provides 3d models of different parts of the projects that have significance or caused trouble.
       
 
 ## Decide
