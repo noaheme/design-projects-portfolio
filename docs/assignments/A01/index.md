@@ -23,7 +23,9 @@ Portfolio 2:
 
 Homepage Identity
 
-  The homepage is the first thing a user sees when visiting a site. Therefore it is crucial to have a homepage that clearly exhibits what the website will be about. For an engineering portfolio, a clear header along with an easily accessible menu allows for easy navigation and a clear idea of what the portfolio is about. Additionally, having a summary or timeline on the homepage can be beneficial as it gives a short description of what is in the portfolio.
+  The homepage is the first thing a user sees when visiting a site. Therefore it is crucial to have a homepage that clearly exhibits what the website will be about. For an engineering portfolio, a clear header along with an easily accessible menu allows for easy navigation and a clear idea of what the portfolio is about. Additionally, having a summary, timeline, or important terms on the homepage can be beneficial as it gives a short description of what is in the portfolio. This information helps hold the portfolio to a high standard. A standard that makes it easy to navigate and understand while having sufficient information to get the point across. This standard being very common through the engineering field as a whole.
+
+
 
 
 ## Communicate
