@@ -5,6 +5,9 @@ The objective of Assignment 1 is to build a Professional Portfolio through analy
 
 ## Analyze
   Part A: Portfolio Analysis
+
+Portfolio 1: https://thanhvtran.com/
+Portfolio 2: https://nhoong.github.io/index.html
   
   1. Navigability
     
@@ -14,9 +17,9 @@ Portfolio 2: The portfolio of Nathan Hoong is created through github leading to 
 
   2. Reproductivity
 
-Portfolio 1:
+Portfolio 1: The portfolio of Thanh Tran would be almost impossible to replicate. It is a website that shows off all of his work yet has no trace of what was used to create the website itself. It is meant to show the best of him along with his history and not meant to be used as a template for others.
 
-Portfolio 2:
+Portfolio 2: Nathans portfolio on the other hand is made through github and is public. This means that with a little bit of digging you can find the entire portfolio making it easy to replicate. Nathan does not mention it in his website itself however going onto github and searching for his profile will allow you to view it.
       
 
 ## Decide
