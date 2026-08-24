@@ -29,6 +29,10 @@ Intentional Customization
 
   I made a very simple change of changing the capitalization on the section headers. Taking "The three pillars" and "Semester arc" and changing them to "The Three Pillars" and "Semester Arc" respectively. This small change provides uniformity throughout as the other headers are all capitalized correctly. This also shows professionalism as it takes the small things like grammar into account. It was also one of the first things I noticed when opening the template as those small capitalization errors differ from the standard expected and can draw attention away from the message that is trying to be conveyed. 
 
+Documentation Standard
+
+  This semester I am committed to holding a standard of detail and consistency with my work allowing me to develop my skills while having detailed work to show for it.
+
 
 
 
