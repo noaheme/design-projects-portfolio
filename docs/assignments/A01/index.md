@@ -26,7 +26,12 @@ Portfolio 2: Nathans portfolio on the other hand is made through github and is p
 Portfolio 1: Thanh Tran's portfolio is quite in-depth and provides reasoning for certain decisions. For projects that Tran can disclose information on he walks through design processes and provides images to back up certain decisions and help the reader follow his train of thought. However, some of his projects he is not able to comment on leaving the reader with just the decision or just the vague description of his role.
 
 Portfolio 2: Nathan Hoong's portfolio is a perfect example of how to provide evidence for certain decisions. Scrolling down on the homepage shows many different 3d models along with the design processes and guidelines that made him make certain decisions and provides 3d models of different parts of the projects that have significance or caused trouble.
-      
+
+  4. Professional Tone
+
+Portfolio 1: Thanh Tran's portfolio meets a standard that I would hand to an employer. It keeps a light hearted yet professional tone throughout. The introduction pokes fun at someone stumbling across the website providing a light hearted feel yet all of the projects and the resume are handled with such professionalism that it would be perfect for an employer.
+
+Portfolio 2: Nathan Hoong's portfolio take a strict professional approach. From the bio to the project descriptions it is easy to tell that it was created for employers to see. Therefore, I think it is good to send to an employer however I tend to like having slight humor where acceptable as it shows the real version of me.
 
 ## Decide
 
