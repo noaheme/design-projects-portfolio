@@ -56,6 +56,24 @@ The spring which is winded around the pivot axis allows for elastic strain and a
 
 The pivot pin defines the axis of rotation and constrains the rest of the axis keeping the clip together and allowing it to rotate around that axis.
 
+  D. 
+
+  Picture of the patent
+
+Bag Clip by Albert Kassin and George Lai
+
+Patent Number: USD1051709S1
+
+Alternative Solutions:
+
+1. Folding Bag Clamp (Singular plastic piece)
+
+2. Bag Sealer Rods (Ex. Gripstic)
+
+Intentional Design Decision
+
+Looking at the geometry of the clip you can tell that the designer made places the pivot pin closer to the jaw to allow for more mechanical advantage and more clipping force. Moving the pin closer to the jaw allows for a longer handle and less stress needed to achieve the same output. 
+
 ## Decide
 
 Homepage Identity
