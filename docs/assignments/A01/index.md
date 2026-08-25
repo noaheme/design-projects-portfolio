@@ -58,7 +58,7 @@ The pivot pin defines the axis of rotation and constrains the rest of the axis k
 
   D. 
 
-  Picture of the patent
+  <img width="1687" height="2614" alt="USD1051709-20241119-D00001" src="https://github.com/user-attachments/assets/399105a6-403a-4b46-a8fa-fbd87922c0dc" />
 
 Bag Clip by Albert Kassin and George Lai
 
