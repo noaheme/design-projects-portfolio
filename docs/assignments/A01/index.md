@@ -43,6 +43,19 @@ B.
 
   One can assume that the clamp itself is a rigid body and that all of the strain is put into the spring.
 
+C.
+  Picture of Handles/Jaws
+
+The 2 identical pieces that act as the handles and the jaws allow for maximum mechanical leverage and more efficient clamping force. In the case of this clip in particular. There are also holes with rubber edging to allow for easy storage and ease of use. Additionally to the holes there is a magnet on one jaw handling to allow for easy storage and the jaws have rubber on the ends for a better grab on the bag.
+
+  Picture of Spring
+
+The spring which is winded around the pivot axis allows for elastic strain and allows for the jaws of the clip to be opened in closed while returning to a closed shape when in equilibrium. This ability to keep closed is also what applies a constant force to the jaw clipping the bag shut.
+
+  Picture of the Pivot Pin
+
+The pivot pin defines the axis of rotation and constrains the rest of the axis keeping the clip together and allowing it to rotate around that axis.
+
 ## Decide
 
 Homepage Identity
