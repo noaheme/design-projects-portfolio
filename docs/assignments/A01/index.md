@@ -35,6 +35,14 @@ Portfolio 2: Nathan Hoong's portfolio take a strict professional approach. From 
 
   Part B: Product Analysis
 
+A. The Bag Clip is designed to clamp a bag shut. Keeping the contents inside separated from the contents outside through a spring holding a clamp and the bag shut.
+
+B.
+
+  Model and Variables: The clamp uses mechanical leverage, equilibrium of a lever( force applied x distance from line of action = force exerted x distance from line of action), and torque (T=Kθ).
+
+  One can assume that the clamp itself is a rigid body and that all of the strain is put into the spring.
+
 ## Decide
 
 Homepage Identity
