@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-The objective for this assignment is to design and analyze a truss that can withstand a certain safety factor while staying within a group of given constraints. 
+The objective for this assignment is to design and analyze a truss that can withstand a certain safety factor while staying within a group of given constraints. In doing so, this assignment will help with engineering problem solving as well as the ability to defend a decision. The defense coming from multiple tests and plenty of data. 
 
 Constraints:
 
