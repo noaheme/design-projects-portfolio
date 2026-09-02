@@ -27,19 +27,25 @@ The triangular design would allow for a simple design of only 5 joints while mai
 
 Calculations:
 
-IMAGE
+<img width="1179" height="432" alt="54919" src="https://github.com/user-attachments/assets/b5396beb-afbd-4c5f-8904-9b0963ff4a0d" />
+
+<img width="1179" height="1285" alt="66054" src="https://github.com/user-attachments/assets/760bb1cf-6d5a-4f47-9116-06ae0cf89c15" />
+
+<img width="1179" height="1386" alt="59624" src="https://github.com/user-attachments/assets/c0b0c081-e206-452f-9bf8-6919e5cf6941" />
 
 The first step was creating free body diagrams of each joint which would then allow for us to solve for the internal forces acting on the truss. Starting with symbolic representation and shifting to numerical values I determined that the largest force the truss would endure would come from member CE and DE at 24.066 kN. This would come in handy when finding the cross-sectional area and estimating the weight of the truss.
 
+<img width="1179" height="772" alt="31190" src="https://github.com/user-attachments/assets/82eaec34-f976-44c8-9a2c-137b1e30eab5" />
+
 On first attempt. I ran into some troubles with making the truss be in equilibrium. Through some problem solving and careful observation I was able to see that I had swapped the sine and cosine values in one of my equations and was able to fix the mistake and move on.
 
-IMAGE
+<img width="1179" height="1383" alt="79367" src="https://github.com/user-attachments/assets/1951b055-ffff-4c1f-bcb8-0207b3119f16" />
 
 Using the given values along with the 24.066 kN force determined earlier I was able to calculate the cross-sectional area of the truss by manipulating two equations to solve for the unknown value. After determining the cross-section area I used it to solve for the volume and then the mass to give me an estimated weight of the truss.
 
 Pin Calculations:
 
-IMAGE
+<img width="1179" height="1482" alt="47640" src="https://github.com/user-attachments/assets/095afc8d-f050-4842-9327-36ce1aa60e9c" />
 
 The next set of calculations I was tasked with revolved around the pins that would be holding the truss together. 
 
