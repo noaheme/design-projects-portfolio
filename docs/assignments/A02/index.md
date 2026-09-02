@@ -15,7 +15,7 @@ Constraints:
 
 -The truss connected to all of the given joints
 
--IMAGE
+<img width="317" height="215" alt="download" src="https://github.com/user-attachments/assets/960078e3-fb06-4a44-b70a-d6485ee3215a" />
 
 ## Analyze
 Truss Design:
