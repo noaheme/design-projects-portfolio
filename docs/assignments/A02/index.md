@@ -69,3 +69,9 @@ _Which geometry did you select, and why? This is your first open design choice i
 My selected geometry revolved around a 5 pin 3 triangle design that would allow for a minimal yet affective truss. After preforming a series of calculations as well as modeling I can safely say that my truss is a valid decision for the parameters given. The truss overall was made out of fewer materials than a truss with more joints. While also supporting the load with a max force under 25kN. This load strength then allowed for pins that fit comfortably withing the truss itself. 
 ## Communicate
 
+This assignment taught me many engineering lessons which helped sharpen my tools for assignments and challenges to come. In particular, this assignment taught me that anyone can make a claim. When the assignment first started I knew exactly what truss I wanted. However, my friend had a different idea. And even though we could have argued on and on we did what an engineer would, we proved it. I spent around 10 hours on calculations and CAD drawings all to back up my decision for what I thought was the best truss. And in the end I was and am able to confidently stand on my choice. 
+
+To dive even deeper, I ran into a challenge that every engineer has. The ability to see in the mind but not in real life. When I was doing my calculations for the internal forces I knew that in equilibrium everything had to be zero. Yet my math said otherwise. I tried to take a break but it would not leave my mind. I eventually went back to my calculations and determined that my mistake was simply switching the sine and cosine. And even though I could imagine the correct result. I had to sit down and prove it. 
+
+## 2157 Portion
+
