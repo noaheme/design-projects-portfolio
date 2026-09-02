@@ -54,8 +54,8 @@ The next set of calculations I was tasked with revolved around the pins that wou
 
 Solidworks Design:
 
-<object data="assets/Doc1.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Your browser does not support inline PDFs. <a href="assets/Doc1.pdf">Click here to download the PDF</a>.</p>
+<object data="Doc1.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support inline PDFs. <a href="Doc1.pdf">Click here to download the PDF</a>.</p>
 </object>
 
 For the modeling portion of this assignment I chose to use solidworks as I am trying to get more familiar with it to use on other projects. With this being said I am far more familiar with Creo so it took some getting used to before I could attack the truss. 
