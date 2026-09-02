@@ -37,6 +37,12 @@ IMAGE
 
 Using the given values along with the 24.066 kN force determined earlier I was able to calculate the cross-sectional area of the truss by manipulating two equations to solve for the unknown value. After determining the cross-section area I used it to solve for the volume and then the mass to give me an estimated weight of the truss.
 
+Pin Calculations:
+
+IMAGE
+
+The next set of calculations I was tasked with revolved around the pins that would be holding the truss together. 
+
 Solidworks Design:
 
 
