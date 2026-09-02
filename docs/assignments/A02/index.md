@@ -64,5 +64,6 @@ One I had my bearings straight I originally designed a single truss member and e
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
+My selected geometry revolved around a 5 pin 3 triangle design that would allow for a minimal yet affective truss. After preforming a series of calculations as well as modeling I can safely say that my truss is a valid decision for the parameters given. The truss overall was made out of fewer materials than a truss with more joints. While also supporting the load with a max force under 25kN. This load strength then allowed for pins that fit comfortably withing the truss itself. 
 ## Communicate
 
