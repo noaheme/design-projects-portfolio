@@ -35,8 +35,7 @@ Calculations:
 
 The first step was creating free body diagrams of each joint which would then allow for us to solve for the internal forces acting on the truss. Starting with symbolic representation and shifting to numerical values I determined that the largest force the truss would endure would come from member CE and DE at 24.066 kN. This would come in handy when finding the cross-sectional area and estimating the weight of the truss.
 
-
-
+  
 <img width="1179" height="772" alt="31190" src="https://github.com/user-attachments/assets/82eaec34-f976-44c8-9a2c-137b1e30eab5" />
 
 On first attempt. I ran into some troubles with making the truss be in equilibrium. Through some problem solving and careful observation I was able to see that I had swapped the sine and cosine values in one of my equations and was able to fix the mistake and move on.
