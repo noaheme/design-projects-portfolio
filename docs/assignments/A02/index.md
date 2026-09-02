@@ -75,3 +75,11 @@ To dive even deeper, I ran into a challenge that every engineer has. The ability
 
 ## 2157 Portion
 
+For the portion of the assignment I used Google Gemini as it partners with the school to give student accounts. I simply took the instructions took a screenshot of relevant information as seen below. This helped me locate information and find useful data for the assignment. I also had to include that I was using A500 steel so AI could better understand my questioning.
+
+<img width="617" height="459" alt="Screenshot 2026-09-02 194744" src="https://github.com/user-attachments/assets/ac326b32-3688-4df7-bb3f-5bab07b49052" />
+
+Part 1- Truss Members
+
+1. 
+
