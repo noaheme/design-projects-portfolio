@@ -20,7 +20,7 @@ Constraints:
 ## Analyze
 Truss Design:
 
-<a href="./A2-1.pdf">Download A2-1.pdf
+<object data="./A2-1.pdf" type="application/pdf" width="100%" height="600px">
 
 The first question we were asked was to design a truss. Instantly my mind ran to what I am used to seeing in my everyday life and that quickly led me to the design that I decided on. Having the task of keeping it simple while also being able to withstand a load I knew that I had to be efficient. And there is not many options better for simplicity and efficiency than a triangle.
 The triangular design would allow for a simple design of only 5 joints while maintaining a structurally sound design. To back up my decision I did some quick research and found that a simple planar truss with 3 triangles is a common design used in bridges and other everyday structures.
