@@ -33,12 +33,12 @@ Calculations:
 
 <img width="1179" height="1386" alt="59624" src="https://github.com/user-attachments/assets/c0b0c081-e206-452f-9bf8-6919e5cf6941" />
 
-The first step was creating free body diagrams of each joint which would then allow for us to solve for the internal forces acting on the truss. Starting with symbolic representation and shifting to numerical values I determined that the largest force the truss would endure would come from member CE and DE at 24.066 kN. This would come in handy when finding the cross-sectional area and estimating the weight of the truss.
+The first step was creating free body diagrams of each joint which would then allow for us to solve for the internal forces acting on the truss. Starting with symbolic representation and shifting to numerical values I determined that the largest force the truss would endure would come from member CE and DE at 24.066 kN. This would come in handy when finding the cross-sectional area and estimating the weight of the truss. Generating the free body diagrams ended up being really challenging for me as I struggling with getting the angle calculations correct. But once I solved the equations symbolically I was able to plug in my values and create the table shown below.
 
   
 <img width="1179" height="772" alt="31190" src="https://github.com/user-attachments/assets/82eaec34-f976-44c8-9a2c-137b1e30eab5" />
 
-On first attempt. I ran into some troubles with making the truss be in equilibrium. Through some problem solving and careful observation I was able to see that I had swapped the sine and cosine values in one of my equations and was able to fix the mistake and move on.
+On first attempt. I ran into some troubles with making the truss be in equilibrium. Through some problem solving and careful observation I was able to see that I had swapped the sine and cosine values in one of my equations and was able to fix the mistake and move on. Overall I think this was a great learning opportunity as I did not take the time to go back and check my calculations when I finished, instead moving onto the next step. But the next step made me come back and fix my mistake.
 
 
 
@@ -50,7 +50,7 @@ Pin Calculations:
 
 <img width="1179" height="1482" alt="47640" src="https://github.com/user-attachments/assets/095afc8d-f050-4842-9327-36ce1aa60e9c" />
 
-The next set of calculations I was tasked with revolved around the pins that would be holding the truss together. 
+The next set of calculations I was tasked with revolved around the pins that would be holding the truss together. These calculations would prove to be tricky but came together in the end. I first listed my knowns and unknowns so I had an idea of where to work towards and what to use to get there. I then drew a free body diagram to help visualize the reaction taking place on a single pin in the truss. I knew that the end goal was to find the weight of the pins and the diameter to be used in my CAD drawing. However, I also knew that I would need my shear and cross-sectional area to be able to solve for the weight and diameter. Similarly to the cross-sectional area of the truss I was able to set two equations together and solve. I also decided on a pin length of 1 inch as it would comfortably fit into my truss. Multiplying the area and length I was able to get the volume which allowed me to get the weight. The process took some time to fully understand but was fairly straight forward as one solution helped with the next problem.
 
 Solidworks Design:
 
