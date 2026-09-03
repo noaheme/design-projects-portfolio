@@ -73,7 +73,7 @@ This assignment taught me many engineering lessons which helped sharpen my tools
 
 To dive even deeper, I ran into a challenge that every engineer has. The ability to see in the mind but not in real life. When I was doing my calculations for the internal forces I knew that in equilibrium everything had to be zero. Yet my math said otherwise. I tried to take a break but it would not leave my mind. I eventually went back to my calculations and determined that my mistake was simply switching the sine and cosine. And even though I could imagine the correct result. I had to sit down and prove it. 
 
-Solidworks Link:
+Solidworks Link: Copy and Paste this link into the browser and the download the file: https://drive.google.com/file/d/15WAFhR2spWE6ZHn7lOCnWlveGR_fxpLd/view?usp=sharing
 
 
 
