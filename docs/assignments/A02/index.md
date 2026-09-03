@@ -81,5 +81,9 @@ For the portion of the assignment I used Google Gemini as it partners with the s
 
 Part 1- Truss Members
 
-1. 
+1. In the realm of trusses members that are in compression or tension can under go a ton of different forces. These forces then cause materials to deform, buckle, or if sudden enough, fracture. Members of a truss that are in tension tend to yield more than not. This is due to the force applied being more than the limit that the member can support. This yielding can cause warping and permanent defects that can worsen down the road. Members of a truss that are in compression undergo a more pressing issue (No pun intended). Members in compression have to support a large pushing force on both sides which when exceed can cause the member to look for a way out. This leads to the member buckling which in most cases can cause a catastrophic failure of the member or truss all together. In the case of the truss I designed, the members on the side where the force was pushing up a more likely to buckle while the members where the force was pulling down are more likely to yield. All while the CD member experiences no forces on itself.
+
+2. 
+
+3. 
 
