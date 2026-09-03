@@ -73,6 +73,10 @@ This assignment taught me many engineering lessons which helped sharpen my tools
 
 To dive even deeper, I ran into a challenge that every engineer has. The ability to see in the mind but not in real life. When I was doing my calculations for the internal forces I knew that in equilibrium everything had to be zero. Yet my math said otherwise. I tried to take a break but it would not leave my mind. I eventually went back to my calculations and determined that my mistake was simply switching the sine and cosine. And even though I could imagine the correct result. I had to sit down and prove it. 
 
+Solidworks Link:
+
+
+
 ## 2157 Portion
 
 For the portion of the assignment I used Google Gemini as it partners with the school to give student accounts. I simply took the instructions took a screenshot of relevant information as seen below. This helped me locate information and find useful data for the assignment. I also had to include that I was using A500 steel so AI could better understand my questioning.
@@ -87,5 +91,27 @@ Part 1- Truss Members
 
 3. The choice of A500 steel was ultimately made due to it being relatively cheap and having a tensile and yield strength that surmounts many steels around it with A53 steel being a perfect example. A53 A has a tensile strength of 35000 psi while A500 comes in at 58000 psi. And when taking into account that A53 is slightly more expensive it is clear to see that A500 is the correct steel for the job. 
 
-4. With the truss being made of solid A500 steel the only real option for making it less prone to failure is to increase the diameter. This increase will also come with an increase in the strength of the truss however will increase the weight and the cost as a byproduct. 
+4. With the truss being made of solid A500 steel the only real option for making it less prone to failure is to increase the diameter. This increase will also come with an increase in the strength of the truss however will increase the weight and the cost as a byproduct.
+
+Part 2- Pin Connections
+
+1. Since pins are constantly undergoing tension and compression forces at the same time they are prone to shear forces. These forces push and pull on the pin until it undergoes a shear failure and breaks into 2 pieces or severely loses its shape.
+
+2. Looking at AISC 360 we can see that many equations for the shear force on a pin have a point at which the force is too much and the pin shears and fails. Specifically classifying shear failure across the cross section as a critical failure.
+
+3. The major design modification for the pin is the same as the truss itself. Increasing the diameter of the pin will allow for more force to act upon it. Therefore it is a good idea to increase both at the same time if one is looking for a significantly stronger truss system.
+
+Sources:
+
+AISC 360-16: https://www.aisc.org/aisc/publications/steel-construction-manual/
+
+Shear Failure: https://www.sciencedirect.com/topics/engineering/shear-failure
+
+A53 vs. A500: https://www.atlastube.com/atlas-observer/designing-and-specifying-astm-a53-vs-astm-500/
+
+A53 Steel: https://www.altitube.com/en/astm-a53-grade-a-vs-b/
+
+A500 Steel: https://www.altitube.com/en/products/astm-a500/
+
+Buckling and Yielding: https://www.surescreenmaterials.com/failure-mechanisms/buckling-and-yielding
 
