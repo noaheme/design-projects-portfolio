@@ -6,14 +6,14 @@ The objective of this assignment is to generate an aluminum beam in CAD using gi
 
 ## Analyze
 
-1. Parametric Design:
+- Parametric Design:
 
    <img width="2502" height="3236" alt="A3-2" src="https://github.com/user-attachments/assets/a4c8e574-0df9-4817-9ad4-8faf085eeab5" />
 
    For part a we were tasked with setting the framework for our beam. We were given the deflection, modulus, and range for the force. I ended up choosing to go with a 400lb force as it was right in the middle of the range as well as a 1-inch diameter as it was nice and easy. I then had to find the length of the bar which involved finding the equation and solving for the length. This process was kind of challenging as it took some time but the application of the math was a fairly straight forward process. I then had to take all of my equations and numbers to solidworks to set up my parametric design and create my beam.
    After creating the beam I had to add the 400lb force pulling on the beam. I did this using the simulation tab in solidworks which I also used to run the simulation seen below. This process took some getting used to as I had never ran FEA before so the simulation tab was not even an option at the start. However, as with most things it became easier with time.
 
-1. Finite Element Analysis:
+- Finite Element Analysis:
 
    <object data="doc2.pdf" type="application/pdf" width="100%" height="600px">
   <p>Your browser does not support inline PDFs. <a href="doc2.pdf">Click here to download the PDF</a>.</p>
@@ -24,17 +24,13 @@ The objective of this assignment is to generate an aluminum beam in CAD using gi
 
    Question 2 concluded by asking for a safety check on the bar we created. It gave us 40ksi as the maximum strength of aluminum and tasked us with proving we stayed below that value. After doing the calculations I concluded that the safety factor was a whopping 78.5. While this is not a bad thing it shows that the 1 inch diameter was overkill in the creation of the bar. 
    
-1. Design Reflection:
-
-   IMAGE
-
-   Using my calculated axial deflection
-
-   
-
 ## Decide
 
-After completing both the hand calculations and the FEA I believe that I will choose the FEA axial deflection for the design as the software is less prone to accidental errors. Unlike my hand calculations where mishaps and assumptions can throw my numbers off. The solidworks software has build in code that does not round until the end which causes more precise and trustworthy answers.
+- Design Reflection:
+
+   <img width="2502" height="3236" alt="A3-4" src="https://github.com/user-attachments/assets/4e14e8c4-ba53-4bbc-8d91-5857bccfddea" />
+
+   Using my calculated axial deflection which was equivalent to the 0.009in value given as well as the axial deflection of the FEA I was pleasantly surprised to see that my values were less than 0.3% off the value of the FEA. This was good proof that my calculations were correct. After completing both the hand calculations and the FEA I believe that I will choose the FEA axial deflection for the design as the software is less prone to accidental errors. Unlike my hand calculations where mishaps and assumptions can throw my numbers off. The solidworks software has build in code that does not round until the end which causes more precise and trustworthy answers. After determining the percent error we were asked to imagine a pin hole in the middle of the bar. I decided to make the whole 0.5inches as it simply halved the 1 inch bar diameter. After some research I found Kt and was able to determine that even with the pin the safety factor was 37.4 which is still way more than it needs to be, but still acceptable.
 
 ## Communicate
 
