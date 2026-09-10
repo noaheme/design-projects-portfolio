@@ -44,4 +44,6 @@ For this portion of the assignment we were tasked with redoing the second part o
 
 After running the numbers through the solidworks parameters my guess was correct. The length of the bar went down to 39.27 inches showing a major decrease from the previous length. 
 
+[CAD File](https://drive.google.com/file/d/1dCMyVAoKjnJnPm3WtFayUxW8yR1Gy1mk/view?usp=sharing)
+
 
