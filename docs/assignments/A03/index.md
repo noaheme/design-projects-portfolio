@@ -15,8 +15,9 @@ The objective of this assignment is to generate an aluminum beam in CAD using gi
 
 2. Finite Element Analysis:
 
-   SOLIDWORKS PDF
-
+   <object data="doc2.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support inline PDFs. <a href="doc2.pdf">Click here to download the PDF</a>.</p>
+</object>
    The pdf shown above shows my work in solidworks on this assignment. From the creation of the bar to the force being applied to the FEA being ran. All of it happened in solidworks. RAMBLE ON ABOUT THE RESULTS
 
    <img width="2502" height="3236" alt="A3-3" src="https://github.com/user-attachments/assets/65ed2b83-5340-4cc4-9b57-0f2784a4f769" />
