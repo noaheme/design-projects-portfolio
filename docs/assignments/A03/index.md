@@ -23,7 +23,7 @@ The objective of this assignment is to generate an aluminum beam in CAD using gi
    <img width="2502" height="3236" alt="A3-3" src="https://github.com/user-attachments/assets/65ed2b83-5340-4cc4-9b57-0f2784a4f769" />
 
    Question 2 concluded by asking for a safety check on the bar we created. It gave us 40ksi as the maximum strength of aluminum and tasked us with proving we stayed below that value. After doing the calculations I concluded that the safety factor was a whopping 78.5. While this is not a bad thing it shows that the 1 inch diameter was overkill in the creation of the bar. 
-
+   
 3. Design Reflection:
 
    
