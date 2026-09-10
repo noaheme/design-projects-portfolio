@@ -38,3 +38,10 @@ This assignment was very informative and intriguing to complete. Before this ass
 
 ## 2157 Portion: Variable Changes
 
+For this portion of the assignment we were tasked with redoing the second part of the experiment while having changed values for force and diameter. We were also asked to guess if we thought the length of the bar would increase or decrease. For this part I decided to halve the diameter to 0.5 in as the safety factor for 1 inch seemed to be way to high while also increasing the load to 500lb to even further test the safety factor. I predict that the increase in force along will cause an increase in length but the halved diameter will significantly decrease the overall length.
+
+<img width="590" height="256" alt="Screenshot 2026-09-09 214141" src="https://github.com/user-attachments/assets/855bb1be-2990-4d93-924c-0489c5ebf9d9" />
+
+After running the numbers through the solidworks parameters my guess was correct. The length of the bar went down to 39.27 inches showing a major decrease from the previous length. 
+
+
