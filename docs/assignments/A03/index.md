@@ -26,10 +26,19 @@ The objective of this assignment is to generate an aluminum beam in CAD using gi
    
 1. Design Reflection:
 
+   IMAGE
+
+   Using my calculated axial deflection
+
    
 
 ## Decide
 
+After completing both the hand calculations and the FEA I believe that I will choose the FEA axial deflection for the design as the software is less prone to accidental errors. Unlike my hand calculations where mishaps and assumptions can throw my numbers off. The solidworks software has build in code that does not round until the end which causes more precise and trustworthy answers.
 
 ## Communicate
+
+This assignment was very informative and intriguing to complete. Before this assignment I had never run an FEA or even known what it was. I was slightly familiar with solidworks but this assignment took those skills to a new level. I learned how to apply forces and fix faces to create different stresses and strains. Even with issues in finding the axial deflection in solidworks the assignment was fun overall and will definitely come in handy later on in my career. I would say this assignment took my 4-5 hours as I chose not to rush it and might have had football on in the background. Jokes aside I chose to take my time so I would actually learn the process instead of running through and forgetting everything.
+
+## 2157 Portion: Variable Changes
 
