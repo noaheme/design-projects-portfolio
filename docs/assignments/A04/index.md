@@ -28,10 +28,10 @@ The CAD design was both the most enjoyable and most in depth part of the project
 
 ## 2157 Section: Drawings
 
-## Decide
-
 
 
 
 ## Communicate
+
+
 
