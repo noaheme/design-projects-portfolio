@@ -6,6 +6,22 @@ The objective of this assignment is to design and create a mount for a brushed m
 
 ## Analyze
 
+Feature 1:
+
+<img width="1081" height="1398" alt="0" src="https://github.com/user-attachments/assets/174c694d-d575-48e5-8775-d3a5857828b3" />
+
+Words
+
+Feature 2:
+
+<img width="1081" height="1398" alt="0" src="https://github.com/user-attachments/assets/b2e99965-6c2d-4b31-b2a0-59bbc19d1949" />
+
+More words
+
+CAD Design:
+
+
+
 
 ## Decide
 
