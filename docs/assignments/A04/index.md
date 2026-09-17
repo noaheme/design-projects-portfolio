@@ -30,10 +30,16 @@ The CAD design was both the most enjoyable and most in depth part of the project
 
 ## 2157 Section: Drawings
 
+ <object data="A4drawing.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support inline PDFs. <a href="A4drawing.pdf">Click here to download the PDF</a>.</p>
+</object>
 
+For the 2157 portion of this assignment we were asked to take the CAD model created earlier and make a drawing of the model in solidworks. This part of the assignment while short, was one of the most challenging as I was familiar with making drawings in creo but not solidworks. Once I was able to figure out the annotations I place down the different views and was able to create a solid representation of my part in a drawing. 
 
 
 ## Communicate
+
+This assignment was very challenging but also very informative as it taught me multiple things about the design process and solidworks itself. The assignment was tough as I had issue with solidworks itself along with small miscalculations in the math that required me to go back and recalculate. But overall the assignment was very informative as it allowed for my own creations to be mixed with a set of given parameters to eventually get an outcome. This assignment from start to finish took me roughly 7 hours however the first few hours were spend understanding the question and the end goal that were asked of me.
 
 
 
