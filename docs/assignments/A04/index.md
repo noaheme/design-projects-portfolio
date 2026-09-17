@@ -26,7 +26,9 @@ CAD Design:
 
 The CAD design was both the most enjoyable and most in depth part of the project. Starting with the original 32mmx32mm base and length moving to the different cuts so that the motor could easily sit in the mount. The assignment allowed for experimentation and allowed me to learn a lot more about solidworks. I mathematically solved for the depth so I extended the square out to make a 32mmx32mmx12mm cube. The original reason for choosing 32mmx32mm was due to the 28mm diameter cut that was to hold part of the main body of the motor. I figured that the extra 4mm was plenty to allow for a study hold while not being too outlandish. Looking at appendix a I could also see the tiny 18mm diameter by 2mm deep plate sticking off of the end of the motor right before the end. I decided to incorporate this into my design before adding the 6mm hole that would go all the way through the feature allowing for the shaft. After finishing the first feature I made another sketch onto the side face of feature 1. This 44mmx32mm sketch would become feature 2. The 44mm base length is due to the 12mm depth of feature 1 being accounted for. After again mathematically solving for the thickness of the second feature I extruded the sketch to create a 44mmx32mmx10mm block that was connected to feature 1. After adding in the 4 connection wholes at an even 8mm from each respective corner as seen in the pictures, and adding a small 5mm fillet to create a smoother looking design. I was finally finished with my motor mount.
 
+CAD File: https://drive.google.com/file/d/1_TSERvNkSUbAwUIxLsPfrIt5cEVnItav/view?usp=sharing
 
+Please let me know is this is what you need. I have seen the comments yet direct embedding has not worked. I have a screenshot if needed.
 
 ## 2157 Section: Drawings
 
