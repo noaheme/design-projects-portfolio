@@ -1,4 +1,4 @@
-# A5 – [Bracket Design]
+# A5 – Bracket Design
 
 ## Objective
 
