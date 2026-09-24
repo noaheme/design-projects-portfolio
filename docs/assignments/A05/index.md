@@ -46,7 +46,7 @@ Error Propagation can be seen on every feature stemming from feature A. The enti
 
 Assumption Sensitivity:
 
-One assumption that I made many times in the project was using a centralized force. This was mainly used to keep the free body diagrams simple and easy to navigate. If this was different or wrong it could have resulted in complex algebra which I would have most likely messed up as I would have had to account for a distributed force. 
+One assumption that I made many times in the project was using a centralized force. This was mainly used to keep the free body diagrams simple and easy to navigate. If this was different or wrong it could have resulted in complex algebra which I would have most likely messed up as I would have had to account for a distrib
 
 ## 2157 Portion: Fits
 
@@ -65,3 +65,7 @@ For this question I used the Machinery's Handbook and pulled the charts from pag
 3.
 
 For choosing the proper fit for the 1 inch hole I referenced the Machinery's Handbook and decided to use the H8/F7 as it allows the features to rotate freely. In order to achieve this I would us a lathe to drill and ream the hole.
+
+## Time
+
+This assignment took me roughly 7 hours to complete. Due to it being midterm season the time was unfortunately not split up and spent in the span of a couple of days and very late nights.
