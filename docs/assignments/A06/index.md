@@ -30,6 +30,12 @@ The final part of the design was to create the support and the pin itself. This 
 
 Above are the parametric equations used for the lengths, widths, heights, and thicknesses that made up my design in A6
 
+Part 2: Drawing
+
+<img width="853" height="595" alt="Screenshot 2026-09-30 213553" src="https://github.com/user-attachments/assets/d1df0542-690e-4a48-bbd2-05287ea135cd" />
+
+The second part of this assignment turned the three dimensional bracket created in part 1 and produced a detailed engineering drawing around the design. The drawing shows relevant and necessary dimensions along with giving the ability to recreate the structure from part 1.
+
 ## Decide
 
 
