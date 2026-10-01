@@ -36,14 +36,37 @@ Part 2: Drawing
 
 The second part of this assignment turned the three dimensional bracket created in part 1 and produced a detailed engineering drawing around the design. The drawing shows relevant and necessary dimensions along with giving the ability to recreate the structure from part 1.
 
+## Communicate
+
 Part 3: Reflections
 
 A. For the design of my bracket I decided to use the stress analytical equation as it was the larger of the two values. A specific example would be the 0.24 value calculated for the thickness of feature B. I rounded up to 0.24 but the stress value would determine the value used in the actual design. As far as the rest of the design goes. The equations and minimum values did not change they were just increased to make a design that made sense. For example the original sketch had the bottom of the mounting part as 1 in but both sides as 0.5 inches. This creates a closed hole which doesn't not allow the bracket to slide onto different things. Therefore the design had to be scaled up within reason.
 
 B. 
 
-## Decide
+I would apply a tighter tolerance to the part of the link that slides onto the pin as it would allow for it to sit snug without the risk of sliding off with different motions/vibrations. 
+
+## 2157 Portion: Link Design
+
+Part 1:
+
+<img width="637" height="614" alt="Screenshot 2026-09-30 225202" src="https://github.com/user-attachments/assets/003afbaa-5c6a-4542-8096-ee9a3f644885" />
+
+For the 2157 portion of A6 we were asked to great the link we solved for in A5 for this link I once again went slightly up on the values that I used o solved for in A5. I went with a 4x2x0.25 link that would allow for a snug fit with the pin in the original bracket. The link we fairly straight forward and needed a simple extrude to get to its final form.
+
+Part 2: 
+
+<img width="976" height="634" alt="Screenshot 2026-09-30 232124" src="https://github.com/user-attachments/assets/7b1e574a-1b8b-4375-a6db-6f231f3b660b" />
+
+Like part 2 of the main section we were tasked with creating a drawing. This time the drawing was to be of the link we designed and solved for. The drawing shows the important dimensions along with the appropriate views needed to recreate the part.
+
+Part 3:
+
+In the design process it is important to consider how different parts will come together. If the dimensions were perfect things would be very tight or not go together at all. For this it is important to incorporate tolerances to allow the link and pin to come together without so much interference that it becomes impossible. For this the link hole that attaches to the pin is given a positive tolerance meaning that more times than not the part will be slightly larger allowing for it to fit while maintaining a sturdy connection. 
+
+This assignment took roughly 3 hours.
 
 
-## Communicate
+
+
 
