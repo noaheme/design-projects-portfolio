@@ -36,6 +36,12 @@ Part 2: Drawing
 
 The second part of this assignment turned the three dimensional bracket created in part 1 and produced a detailed engineering drawing around the design. The drawing shows relevant and necessary dimensions along with giving the ability to recreate the structure from part 1.
 
+Part 3: Reflections
+
+A. For the design of my bracket I decided to use the stress analytical equation as it was the larger of the two values. A specific example would be the 0.24 value calculated for the thickness of feature B. I rounded up to 0.24 but the stress value would determine the value used in the actual design. As far as the rest of the design goes. The equations and minimum values did not change they were just increased to make a design that made sense. For example the original sketch had the bottom of the mounting part as 1 in but both sides as 0.5 inches. This creates a closed hole which doesn't not allow the bracket to slide onto different things. Therefore the design had to be scaled up within reason.
+
+B. 
+
 ## Decide
 
 
