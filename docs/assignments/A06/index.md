@@ -66,6 +66,15 @@ In the design process it is important to consider how different parts will come 
 
 This assignment took roughly 3 hours.
 
+## CAD Files:
+
+Bracket: https://drive.google.com/file/d/1dgItOBlquYXvarFqS9Q3iAX5a03QF9Nv/view?usp=sharing
+
+Bracket Drawing: https://drive.google.com/file/d/1e0hWgOe0OXmz5upP905DZ5yZxaqytOQm/view?usp=sharing
+
+Link: https://drive.google.com/file/d/17vA8PjLQR6TP071E6P4wU40uLlEw76IT/view?usp=sharing
+
+Link Drawing: https://drive.google.com/file/d/1BD9IMxu9Qk5RODTmL9cjS7NtE4Nwm9dE/view?usp=sharing
 
 
 
