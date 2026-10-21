@@ -60,7 +60,7 @@ This design did what it was supposed to. Take material off and keep a similar fa
 
 - Design 3:
 
-Design 2 showed that removing material was not always a bad thing. But I also noticed through my first 2 designs that the stress and strain were largest at the sharp edges on the mount. I therefore joined all of the bodies to add 2 fillets to the sharp edges. I then removed a chunk of the bottom of the main body in hopes or moving more unneeded mass. Lastly I added a circle cut pattern to the main body to remove mass. Below you will see the results.
+Design 2 showed that removing material was not always a bad thing. But I also noticed through my first 2 designs that the stress and strain were largest at the sharp edges on the mount. I therefore joined all of the bodies to add 2 fillets to the sharp edges. I then removed a chunk of the bottom of the main body in hopes or moving more unneeded mass. Lastly I added a circle cut pattern to the main body to remove mass. This design only took 2 tests as it converged to an impressive 4.56% difference in stress and a 0.19% difference in the deflection. Below you will see the results. 
 
 <img width="794" height="560" alt="Screenshot 2026-10-21 170156" src="https://github.com/user-attachments/assets/2a5d1617-6169-47e7-899c-c163ceac4930" />
 
@@ -72,16 +72,18 @@ From the simulation we can see the following:
 
 Max Stress and Location: 101.6 MPa located at the fillets.
 
-Max Deflection and Location: 
+Max Deflection and Location: 0.266 mm at the end of the pin.
 
+Mass: 2.76 pounds
 
+Factor of Safety: 2.46
 
+Number of Elements: 364511
 
-
-
-
-## Decide
-
+This design is by far my favorite. The mass dropped due to the removed material even though fillets were added. The fillets also did their job as the deflection was slightly smaller. The stress and strain increased however it is understandable as the foundation took a hit due to the holes. This also impacted the factor of safety taking it down to 2.46. Overall, I am happy with the outcome as it is lighter and stiffer while still maintaining a near 2.5 factor of safety.
 
 ## Communicate
 
+This assignment was very informative as I learned a lot about optimization and how different changes affect the factor of safety. From the first to third design I removed almost one and half pounds while maintaining similar values of stress, strain, and FOS while making the deflection smaller. I also learned that removing material does not always lower the factor of safety. Removing unneeded materials can actually increase the factor of safety by changing the stress levels. This was eye opening and inspired me to remove more mass through cuts and holes. Overall the assignment was a great way to learn about the engineering design process while also teaching me something unexpected that will help me in the future. In total this assignment took roughly 5 hours.
+
+## 2157 Portion: Fit FEA
