@@ -48,7 +48,7 @@ From the simulation we can see the following:
 
 Max Stress and Location: 89.4 MPa Located at the sharp edges between the body, connector arm, and pin.
 
-Max Deflection and Location: 
+Max Deflection and Location: 0.2744 mm at the edge of the pin
 
 Mass: 3.34 Pounds 
 
@@ -72,7 +72,7 @@ From the simulation we can see the following:
 
 Max Stress and Location: 101.6 MPa located at the fillets.
 
-
+Max Deflection and Location: 
 
 
 
