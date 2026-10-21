@@ -12,7 +12,7 @@ For this assignment I chose to go with ASTM A36 Steel:
 
 - Design 1:
 
-The first FEA was performed on the design from A6 with no modifications made. To perform the simulation I applied a fixed geometry to the bottom of the overhang as that face will be laying on the mount. I then applied a downward force of 300N to the pin. Finally, I added a fine mesh to the entire part and ran the simulation. Below are the results.
+The first FEA was performed on the design from A6 with no modifications made. To perform the simulation I applied a fixed geometry to the bottom of the overhang as that face will be laying on the mount. I then applied a downward force of 300N to the pin. Finally, I added a fine mesh to the entire part and ran the simulation. This was after running a course and mild mesh that had yet to converge only making it to 10%. Below are the results. 
 
 <img width="920" height="669" alt="Screenshot 2026-10-20 161453" src="https://github.com/user-attachments/assets/92d74c56-fb7f-4ef3-91b0-9990f396bd5e" />
 
@@ -36,7 +36,49 @@ Overall the design was sturdy and held a solid factor. However, it can be optimi
 
 - Design 2:
 
-Taking what I learned from the first design I moved to make a structure that was still stiff and strong yet more optimized. I did this by changing the overhand height to 1.5 inches and the wall thickness on the sides to 0.15 inches. This was in hopes to make the structure lighter while not sacrificing to much of the strength.
+Taking what I learned from the first design I moved to make a structure that was still stiff and strong yet more optimized. I did this by changing the overhand height to 1.5 inches and the wall thickness on the sides to 0.15 inches. This was in hopes to make the structure lighter while not sacrificing to much of the strength. I ran the FEA 3 different times going finer and finer with the mesh which did not fully converge to the 7% value but did end up somewhere around 9-10%. Below you will find the finest mesh I could run in solidworks.
+
+<img width="903" height="575" alt="Screenshot 2026-10-21 114529" src="https://github.com/user-attachments/assets/268a56ef-649c-44b8-8ef6-ca346ed657a2" />
+
+<img width="795" height="581" alt="Screenshot 2026-10-21 114539" src="https://github.com/user-attachments/assets/a32fcafd-04f5-45bf-b269-dc8ebc5df547" />
+
+<img width="829" height="560" alt="Screenshot 2026-10-21 114548" src="https://github.com/user-attachments/assets/0ce89809-22e9-4c27-935b-6f2628353d09" />
+
+From the simulation we can see the following: 
+
+Max Stress and Location: 89.4 MPa Located at the sharp edges between the body, connector arm, and pin.
+
+Max Deflection and Location: 
+
+Mass: 3.34 Pounds 
+
+Factor of Safety: 2.80
+
+Number of Elements: 49028
+
+This design did what it was supposed to. Take material off and keep a similar factor of safety, stiffness, and strength while making it lighter. However, one thing stuck out. The factor of safety got larger. I thought there was an error so I did some research; According to COMSOL (2014) removing material can cause a reduction in the local stress levels and lead to a higher factor of safety. Knowing this, I knew I could do better. So taking what I learned I moved to design 3.
+
+- Design 3:
+
+Design 2 showed that removing material was not always a bad thing. But I also noticed through my first 2 designs that the stress and strain were largest at the sharp edges on the mount. I therefore joined all of the bodies to add 2 fillets to the sharp edges. I then removed a chunk of the bottom of the main body in hopes or moving more unneeded mass. Lastly I added a circle cut pattern to the main body to remove mass. Below you will see the results.
+
+<img width="794" height="560" alt="Screenshot 2026-10-21 170156" src="https://github.com/user-attachments/assets/2a5d1617-6169-47e7-899c-c163ceac4930" />
+
+<img width="784" height="508" alt="Screenshot 2026-10-21 170210" src="https://github.com/user-attachments/assets/c5a2f0f9-3ff1-47ec-91df-5b39f5c8eba9" />
+
+<img width="729" height="535" alt="Screenshot 2026-10-21 170225" src="https://github.com/user-attachments/assets/96b96d9c-dcea-4be9-9b84-45ffb3798a5e" />
+
+From the simulation we can see the following:
+
+Max Stress and Location: 101.6 MPa located at the fillets.
+
+
+
+
+
+
+
+
 
 ## Decide
 
