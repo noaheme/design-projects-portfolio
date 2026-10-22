@@ -36,7 +36,7 @@ Overall the design was sturdy and held a solid factor. However, it can be optimi
 
 - Design 2:
 
-Taking what I learned from the first design I moved to make a structure that was still stiff and strong yet more optimized. I did this by changing the overhand height to 1.5 inches and the wall thickness on the sides to 0.15 inches. This was in hopes to make the structure lighter while not sacrificing to much of the strength. I ran the FEA 3 different times going finer and finer with the mesh which did not fully converge to the 7% value but did end up somewhere around 9-10%. Below you will find the finest mesh I could run in solidworks.
+Taking what I learned from the first design I moved to make a structure that was still stiff and strong yet more optimized. I did this by parametrically changing changing the overhand height to 1.5 inches and the wall thickness on the sides to 0.15 inches. This was in hopes to make the structure lighter while not sacrificing to much of the strength. I ran the FEA 3 different times going finer and finer with the mesh which did not fully converge to the 7% value but did end up somewhere around 9-10%. Below you will find the finest mesh I could run in solidworks.
 
 <img width="903" height="575" alt="Screenshot 2026-10-21 114529" src="https://github.com/user-attachments/assets/268a56ef-649c-44b8-8ef6-ca346ed657a2" />
 
@@ -86,4 +86,80 @@ This design is by far my favorite. The mass dropped due to the removed material 
 
 This assignment was very informative as I learned a lot about optimization and how different changes affect the factor of safety. From the first to third design I removed almost one and half pounds while maintaining similar values of stress, strain, and FOS while making the deflection smaller. I also learned that removing material does not always lower the factor of safety. Removing unneeded materials can actually increase the factor of safety by changing the stress levels. This was eye opening and inspired me to remove more mass through cuts and holes. Overall the assignment was a great way to learn about the engineering design process while also teaching me something unexpected that will help me in the future. In total this assignment took roughly 5 hours.
 
-## 2157 Portion: Fit FEA
+## 2157 Portion: Link FEA
+
+All using ASTM A36 Steel
+
+- Design 1
+
+For the link I decided to set a fixed geometry to the inside of the top hole as it would be filled with the pin. I then added a downward force of 150N to the bottom hole. I started out using a mild mesh and then used a fine mesh. The convergence was 1.2%. Below are the results
+
+<img width="910" height="624" alt="Screenshot 2026-10-21 192404" src="https://github.com/user-attachments/assets/ff97ea88-ee81-4940-aa39-da6f7ced3f22" />
+
+<img width="917" height="623" alt="Screenshot 2026-10-21 192418" src="https://github.com/user-attachments/assets/fb534804-81d1-4beb-932e-09bd60d46dae" />
+
+<img width="898" height="641" alt="Screenshot 2026-10-21 192430" src="https://github.com/user-attachments/assets/84b93e58-2123-468d-8b9b-7fc55c22d2e2" />
+
+From the simulation we can see the following:
+
+Max Stress and Location: 5.89 MPa as the inside of the bottom hole.
+
+Max Deflection and Location: 0.0002478mm on the bottom side of the bottom hole.
+
+Mass: 0.39 pounds
+
+Factor of Safety: 169
+
+Number of Elements: 63433
+
+The original link designed in A6 is more than strong enough to the point of a staggering 169 factor of safety meaning there was room for change to get the weight down. With that in mind I moved on to design 2. 
+
+- Design 2
+
+For my second iteration I decided to remove some material in the center portion of the link to save some weight as well as fillets to serve the same purpose along with aesthetic. After running it twice I was able to see that the difference was a small 3.79%. Below are the results:
+
+<img width="911" height="583" alt="Screenshot 2026-10-21 194848" src="https://github.com/user-attachments/assets/f34397b2-4881-4bce-b3a8-b1d034338f78" />
+
+<img width="872" height="593" alt="Screenshot 2026-10-21 194837" src="https://github.com/user-attachments/assets/aa04c4e4-8bb8-4049-b986-145214624aee" />
+
+<img width="911" height="600" alt="Screenshot 2026-10-21 194825" src="https://github.com/user-attachments/assets/02c2ccec-45cf-417c-af64-6746f0cfc96d" />
+
+From the simulation:
+
+Max Stress and Location: 2.7 MPa at the center of the fillets and inside of the bottom hole.
+
+Max Deflection and Location: 0.0004488 mm at the bottom of the link below the second hole.
+
+Mass: 0.33 pounds
+
+Factor of Safety: 92.5
+
+Number of Elements: 62918
+
+The second design took off a solid chunk of material and saw a minimal drop in mass with a large drop in the factor of safety. While the factor of safety is still large I think that it does not justify the drop in mass. The link also saw a large increase if deflection along with more points of severe stress and strain. Overall, I think the design is worse than design 1 and I took that into account with my final design.
+
+- Design 3
+
+My third and final design was a culmination on the information I gathered in design 1 and 2. The design reverted back to the large overall size and included holes to take out mass and distribute stress concentrations. I also went for a shell of 0.05 inches on both sides to take out some weight. The mild and fine mesh converged to a 1.4% difference and the results are below:
+
+<img width="880" height="591" alt="Screenshot 2026-10-21 202151" src="https://github.com/user-attachments/assets/21a43872-dd16-4d76-9a18-a93bad4d25f9" />
+
+<img width="890" height="587" alt="Screenshot 2026-10-21 202130" src="https://github.com/user-attachments/assets/38975a1a-61a2-44a7-b077-6a12b4a4f592" />
+
+<img width="911" height="589" alt="Screenshot 2026-10-21 202107" src="https://github.com/user-attachments/assets/a7279eb0-5bdf-4cb8-94bd-d7b680786a38" />
+
+From the simulation:
+
+Max Stress and Location: 7.67 MPa at the inside of the holes added to "absord" stress.
+
+Max Deflection and Location: 0.003783 mm 
+
+Mass: 0.11 pounds
+
+Factor of Safety: 32.6
+
+Number of Elements: 68478
+
+Design 3 is the most intriguing to me. And thought it might be hard to make. I think it is the best. The design has a very light weight and is so stiff that it deflects outward rather than down. At first this threw me off but I realized that it was virtually locked in the downward direction meaning it is very sturdy. The design also has a factor of safety well above the necessary amount.
+
+
