@@ -164,4 +164,8 @@ Design 3 is the most intriguing to me. And thought it might be hard to make. I t
 
 ## CAD Files
 
+Note: My solidworks Simulation app does not let me save anything. It crashes my computer every time. Has all year. 
 
+Bracket File: https://drive.google.com/file/d/1vwjdAjGjxoLyGZEpeyimlyb1xg14AshY/view?usp=sharing
+
+Link File: https://drive.google.com/file/d/1fwjo3Q6S8e5Fa-q3QVXxZFKqd2SKiYwZ/view?usp=sharing
