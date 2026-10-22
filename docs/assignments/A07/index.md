@@ -162,4 +162,6 @@ Number of Elements: 68478
 
 Design 3 is the most intriguing to me. And thought it might be hard to make. I think it is the best. The design has a very light weight and is so stiff that it deflects outward rather than down. At first this threw me off but I realized that it was virtually locked in the downward direction meaning it is very sturdy. The design also has a factor of safety well above the necessary amount.
 
+## CAD Files
+
 
