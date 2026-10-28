@@ -16,8 +16,6 @@ The objective for this assignment is to mathematically solve then design a gearb
 
 <img width="1081" height="1398" alt="0" src="https://github.com/user-attachments/assets/fc47b8a0-aa31-4e96-9c15-31989e784a1e" />
 
-<img width="1081" height="1398" alt="0" src="https://github.com/user-attachments/assets/5f1aaa4c-54ba-48a1-ba87-de53c2c48423" />
-
 The first major section of the assignment was to mathematically solve for the unknowns of the given problem. These being the input and output torques along with the speeds. All of this was to make sure that the diameters for the rods would be able to hold the force the gears would be generating. This was a fairly straight forward process and showed than a 0.125 inch and 0.250 inch shaft would be perfect for the job. We then moved onto solving for the bearings that would have to hold the shafts inside the gearbox casing. Given the diameter and speed the equations showed that the forces would less than the max strength of the material chosen which would be a oil enriched bronze. 
 
 <img width="857" height="668" alt="Screenshot 2026-10-28 194119" src="https://github.com/user-attachments/assets/8a943e27-f4ee-429b-a76f-f99ed1f6e2df" />
