@@ -77,5 +77,7 @@ https://drive.google.com/file/d/1tZgo1iq2Rb6PtkkpUVSk44B2lsZ2Zyc7/view?usp=shari
 https://drive.google.com/file/d/1rNGWVgPG5EdGas92HuEexnPgTrKM9TIt/view?usp=sharing
 
 
-## Communicate
+## Lessons:
+
+Throughout this assignment I learned many skills in the design and optimization process. I started with a barebones idea of what I wanted to achieve, did the math to make sure the chosen dimensions were safe and designed the product changing what needed to be changed. Before this I had only used assembly in CREO. That made this assignment both challenging and fun while also learning a lot about how the assembly process works in Solidworks. There were some issues including a computer crash and issues finding out how to use the hole wizard tool however they were all good lessons. Overall, I spent roughly 6 hours on this assignment. 
 
