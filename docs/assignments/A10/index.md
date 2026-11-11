@@ -42,6 +42,8 @@ The last of the major designs for this project was the Crosshead. Having the cal
 
 <img width="1179" height="592" alt="0" src="https://github.com/user-attachments/assets/feb85e7e-75f3-4f48-a35b-a79967b58c9e" />
 
+<img width="1094" height="1398" alt="0" src="https://github.com/user-attachments/assets/f4398fce-03a7-4a39-914c-650b62901fb5" />
+
 And with the crosshead designed. We were able to move onto the cost and design.
 
 ## Cost
