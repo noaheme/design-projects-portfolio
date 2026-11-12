@@ -62,7 +62,7 @@ For this portion we were asked to run an FEA on the crosshead designed earlier. 
 
 <img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
 
-The FEA produced showed that the crosshead for the design underwent the expected stress, strain, and displacement and was strong enough for the tensile tester.
+The FEA produced showed that the crosshead for the design underwent the expected stress, strain, and displacement and was strong enough for the tensile tester. However, as with any design improvements can still be made. For this design in particular improvements could include larger washers or bolts in order to better distribute the load or fixing the extrusions with an epoxy or other resin.
 
 ## 2157 Portion Drawings
 
