@@ -52,11 +52,22 @@ And with the crosshead designed. We were able to move onto the cost and design.
 
 ## 2157 Portion: FEA
 
+For this portion we were asked to run an FEA on the crosshead designed earlier. For this we decided to stick with solidworks to not complicate anything.
+
+<img width="2494" height="1398" alt="0" src="https://github.com/user-attachments/assets/d9751d23-6b2a-400c-92a9-9d41d28ac379" />
+
+<img width="1507" height="1137" alt="0" src="https://github.com/user-attachments/assets/d50f992b-b2f4-49e0-823b-bd0299216f19" />
+
+<img width="2556" height="1381" alt="0" src="https://github.com/user-attachments/assets/52ba38e1-5866-45e4-bc46-914d03f4a178" />
+
+<img width="2376" height="1398" alt="0" src="https://github.com/user-attachments/assets/531e701b-5dc5-4c59-8856-5d04df8b183c" />
+
+The FEA produced showed that the crosshead for the design underwent the expected stress, strain, and displacement and was strong enough for the tensile tester.
+
 ## 2157 Portion Drawings
 
 ## Lessons Learned
 
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+
