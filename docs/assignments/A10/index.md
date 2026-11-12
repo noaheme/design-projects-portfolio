@@ -48,22 +48,20 @@ And with the crosshead designed. We were able to move onto the cost and CAD Desi
 
 ## Cost
 
-# Tabulating Cost
-
-# Tabulating Costs
-
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1 | 6 | T-Slotted Framing Extrusion (2 ft) | $31.02 | $186.12 | [McMaster 3136N734](https://www.mcmaster.com/3136N734) |
-| 2 | 1 | T-Slotted Framing Extrusion (18 in) | $40.67 | $40.67 | [McMaster 3136N736](https://www.mcmaster.com/3136N736) |
-| 3 | 1 | T-Slotted Framing Extrusion (18 in) | $21.54 | $21.54 | [McMaster 3136N735](https://www.mcmaster.com/3136N735) |
-| 4 | 8 | T-Slotted Framing Corner Bracket / Gusset | $10.30 | $61.80 | [McMaster 5537T942](https://www.mcmaster.com/5537T942) |
-| 5 | 2 | 863 Iron-Copper Sleeve Bearing | $2.59 | $5.18 | [McMaster 2938T39](https://www.mcmaster.com/2938T39) |
-| 6 | 2 | Clamping Shaft Collar | $18.38 | $36.76 | [McMaster 6698K11](https://www.mcmaster.com/6698K11) |
-| 7 | 2 | Medium-Strength Steel Hex Head Screw | $3.09 | $6.18 | [McMaster 92865A318](https://www.mcmaster.com/92865A318) |
-| 8 | 2 | Black-Oxide Alloy Steel Socket Head Cap Screw | $8.35 | $8.35 | [McMaster 90044A187](https://www.mcmaster.com/90044A187) |
-| 9 | 2 | Steel Dowel Pin | $14.76 | $14.76 | [McMaster 90426A370](https://www.mcmaster.com/90426A370) |
-| | | | **Total Cost** | **$381.36** | |
+| 1 | 2 | 1018 Carbon Steel Acme Lead Screw | $17.04 | $34.08 | [McMaster 99030A992](https://www.mcmaster.com/99030A992) |
+| 2 | 2 | 932 Bearing Bronze Acme Flange Nut | $111.78 | $223.56 | [McMaster 95120A592](https://www.mcmaster.com/95120A592) |
+| 3 | 6 | T-Slotted Framing Extrusion (2 ft) | $31.02 | $186.12 | [McMaster 3136N734](https://www.mcmaster.com/3136N734) |
+| 4 | 1 | T-Slotted Framing Extrusion (18 in) | $40.67 | $40.67 | [McMaster 3136N736](https://www.mcmaster.com/3136N736) |
+| 5 | 1 | T-Slotted Framing Extrusion (18 in) | $21.54 | $21.54 | [McMaster 3136N735](https://www.mcmaster.com/3136N735) |
+| 6 | 8 | T-Slotted Framing Corner Bracket / Gusset | $10.30 | $82.40 | [McMaster 5537T942](https://www.mcmaster.com/5537T942) |
+| 7 | 2 | 863 Iron-Copper Sleeve Bearing | $2.59 | $5.18 | [McMaster 2938T39](https://www.mcmaster.com/2938T39) |
+| 8 | 2 | Clamping Shaft Collar | $18.38 | $36.76 | [McMaster 6698K11](https://www.mcmaster.com/6698K11) |
+| 9 | 2 | Medium-Strength Steel Hex Head Screw | $3.09 | $6.18 | [McMaster 92865A318](https://www.mcmaster.com/92865A318) |
+| 10 | 2 (1 Pack) | Black-Oxide Alloy Steel Socket Head Cap Screw | $8.35 | $8.35 | [McMaster 90044A187](https://www.mcmaster.com/90044A187) |
+| 11 | 2 (1 Pack) | Steel Dowel Pin | $14.76 | $14.76 | [McMaster 90426A370](https://www.mcmaster.com/90426A370) |
+| | | | **Total Cost** | **$659.60** | |
 
 ## Design
 
