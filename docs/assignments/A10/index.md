@@ -44,7 +44,7 @@ The last of the major designs for this project was the Crosshead. Having the cal
 
 <img width="1094" height="1398" alt="0" src="https://github.com/user-attachments/assets/f4398fce-03a7-4a39-914c-650b62901fb5" />
 
-And with the crosshead designed. We were able to move onto the cost and design.
+And with the crosshead designed. We were able to move onto the cost and CAD Design process.
 
 ## Cost
 
@@ -70,7 +70,19 @@ The FEA produced showed that the crosshead for the design underwent the expected
 
 ## 2157 Portion Drawings
 
+Below you will find an engineering drawing of the crosshead with necessary dimensions and information: 
+
+<img width="722" height="540" alt="Screenshot 2026-11-11 191615" src="https://github.com/user-attachments/assets/bea2ab03-4156-47c4-b2b3-5c3bd681b035" />
+
 ## Lessons Learned
+
+This project was by far one of the largest in terms of workload, however, with the load being split between three people it allowed for in depth analysis, calculations, and teamwork to get to the final product.
+
+## Important Links:
+
+This file includes each piece used in the assembly including the final assembly itself along with the drawings and other important information:
+
+https://drive.google.com/file/d/1qH8I4IP3YvXpdvFuLIL-cY8mEvIoVjaR/view?usp=sharing
 
 
 
