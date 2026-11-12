@@ -48,6 +48,26 @@ And with the crosshead designed. We were able to move onto the cost and CAD Desi
 
 ## Cost
 
+# Tabulating Cost
+
+| Item Number | Quantity | Name / Description | Part Number | Cost per Item | Net cost | Purchase Link |
+| :---: | :---: | :--- | :---: | :---: | :---: | :--- |
+| 1 | 2 | Carbon Steel Lead Screw (3/8"-12) | 99030A992 | $35.32 | $70.64 | [McMaster](https://www.mcmaster.com/99030A992) |
+| 2 | 2 | 932 Bearing Bronze Flange Nut | 95120A592 | $111.78 | $223.56 | [McMaster](https://www.mcmaster.com/95120A592) |
+| 3 | 1 | T-Slot Framing System | 804T48 | $245.87 | $245.87 | [Grainger](https://www.grainger.com/product/804T48) |
+| 4 | 4 | T-Slotted Framing Components | 3136N734 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/3136N734) |
+| 5 | 1 | T-Slotted Framing Component | 3136N735 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/3136N735) |
+| 6 | 1 | T-Slotted Framing Component | 3136N736 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/3136N736) |
+| 7 | 4 | T-Slotted Corner Brackets / Gussets | 5537T942 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/5537T942) |
+| 8 | 1 | 863 Iron-Bronze Sleeve Bushing | 2938T39 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/2938T39) |
+| 9 | 1 | Clamping Shaft Collar | 6698K11 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/6698K11) |
+| 10 | 1 | 500 lbf S-Beam Load Cell | LC103B-500lbf | $0.00 | $0.00 | [Link](#) |
+| 11 | 2 | Custom Tensile Test Grippers | Sub-Assembly | $0.00 | $0.00 | Custom |
+| 12 | - | Medium Strength Steel Hex Screws | 92865A318 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/92865A318) |
+| 13 | - | Black-Oxide Alloy Steel Screws | 90044A187 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/90044A187) |
+| 14 | - | Steel Dowel Pins / Hardware | 90426A370 | $0.00 | $0.00 | [McMaster](https://www.mcmaster.com/90426A370) |
+| | | | | **Net Cost:** | **$540.07** | |
+
 ## Design
 
 The design portion for this project allowed for some experimenting in using beams and fasteners that would be seen in the real world. For the main frame and crosshead we decided to use a t-slotted beam as it is common in designs like these. The design is a complete tensile tester that includes calculated measurements and pieces along with McMaster parts and basic framing. 
@@ -76,7 +96,7 @@ Below you will find an engineering drawing of the crosshead with necessary dimen
 
 ## Lessons Learned
 
-This project was by far one of the largest in terms of workload, however, with the load being split between three people it allowed for in depth analysis, calculations, and teamwork to get to the final product.
+This project was by far one of the largest in terms of workload, however, with the load being split between three people it allowed for in depth analysis, calculations, and teamwork to get to the final product. The engineering process did have its issues along the way. When calculating the needed dimensions the algebra at times got messy. And finding McMaster parts was at times tricky as there are certain specifications that would not match up. 
 
 ## Important Links:
 
