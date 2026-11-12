@@ -50,6 +50,10 @@ And with the crosshead designed. We were able to move onto the cost and design.
 
 ## Design
 
+The design portion for this project allowed for some experimenting in using beams and fasteners that would be seen in the real world. For the main frame and crosshead we decided to use a t-slotted beam as it is common in designs like these. The design is a complete tensile tester that includes calculated measurements and pieces along with McMaster parts and basic framing. 
+
+<img width="682" height="626" alt="Screenshot 2026-11-11 191715" src="https://github.com/user-attachments/assets/6121d677-5e9a-48e6-bebc-68c161b90e73" />
+
 ## 2157 Portion: FEA
 
 For this portion we were asked to run an FEA on the crosshead designed earlier. For this we decided to stick with solidworks to not complicate anything.
